@@ -46,3 +46,8 @@ To view the project locally, follow these steps:
 1. Clone the repository:
    bash
    git clone https://github.com/harshsingh1112/Quiz.git
+
+## Preview
+
+<img width="1174" alt="Screenshot 2024-12-23 at 5 48 27 PM" src="https://github.com/user-attachments/assets/5de2ca91-e484-4acc-8f2d-268911d41d9e" />
+
