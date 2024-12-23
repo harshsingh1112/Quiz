@@ -44,8 +44,9 @@ The purpose of this project is to learn and implement key accessibility principl
 To view the project locally, follow these steps:
 
 1. Clone the repository:
-   bash
+  ```bash
    git clone https://github.com/harshsingh1112/Quiz.git
+```
 2. Navigate to the project directory:
    cd accessibility-quiz
 3. Open index.html in your browser:
