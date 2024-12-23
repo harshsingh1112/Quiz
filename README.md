@@ -46,6 +46,17 @@ To view the project locally, follow these steps:
 1. Clone the repository:
    bash
    git clone https://github.com/harshsingh1112/Quiz.git
+2. Navigate to the project directory:
+   cd accessibility-quiz
+3. Open index.html in your browser:
+   open index.html
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests for improvements. If you spot any issues or have suggestions, open an issue, and I'll try to address it.
+
+
+
 
 ## Preview
 
